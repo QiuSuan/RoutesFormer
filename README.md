@@ -1,6 +1,8 @@
 # RoutesFormer
 
-**A Transformer-based Path Inference and Route Choice Model**
+https://www.sciencedirect.com/science/article/pii/S0968090X24000731
+
+RoutesFormer: A sequence-based route choice Transformer for efficient path inference from sparse trajectories
 
 RoutesFormer is a sequence-to-sequence deep learning model designed to infer complete paths from sparse vehicle trajectory observations. Built on the Transformer architecture, it can handle discontinuous paths and perform high-precision path completion.
 
